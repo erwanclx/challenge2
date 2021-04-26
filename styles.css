@@ -1,0 +1,28 @@
+body {
+    font-size: 13px;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+}
+
+.testimonials-content {
+    background-color: red;
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+    margin-top: 70px;
+}
+
+.testimonials-short {
+    display: grid;
+    width: 950px;
+    height: 600px;
+    grid-template-columns: 15px 670px 15px 235px 15px;
+    grid-template-rows: 292.5px 15px 292.5px;
+    background-color: green;
+}
+
